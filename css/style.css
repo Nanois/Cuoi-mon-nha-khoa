@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+.img-100{
+	width: 100%;height: auto
+}
+.top-bar{
+	width: 100%;height: 50px;line-height: 50px;color: white
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #056CB6
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color: #056CB6;padding-top: 0;padding-bottom: 0;border-radius: 0
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li{
+	border-bottom: 2px solid white;
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-item{
+	color: white;margin: 5px 0
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-item:hover{
+	background-color: #FFC113;
+}
+#banner{
+	width: 100%;min-height: 300px;background-image: url(../images/pageheader.png);background-repeat: no-repeat;background-size: cover;background-position: top center;margin-bottom: 32px
+}
+
+.box-xam{
+	background-color: ghostwhite;width: 100%;min-height: 100px
+}
+main{
+	width: 100%;min-height: 500px
+}
+footer{
+	background-color: #2F80ED;width: 100%;min-height: 200px
+}
+.gach-chan{
+	border-bottom: 3px solid #FFC113;
+}
+.text-xanh{
+	color: #2F80ED
+}
+.text-xam{
+	color: dimgray
+}
+#about i{
+	color: #F25252;background-color: white;border-radius: 50%;
+}
+.button{
+	background-color: #2F80ED;color: white;border-radius: 5px;padding: 10px 15px;border: hidden
+}
+.button:hover{
+	background-color: #FFC113
+}
+.box{
+	background-color: ghostwhite;width: 100%;height: 445px;padding: 30px;
+}
+.box a{
+	text-decoration: none;color: #141414
+}
+.box a:hover{
+	color: #FFC113
+}
+#service{
+	width: 100%;min-height: 300px;background-image: url("../images/why.jpg");background-repeat: no-repeat;background-size: cover;background-position: top center;margin: 64px 0
+}
+.icon{
+	width: 30px;height: 30px
+}
+#feedback .noidung{
+	display: flex;flex-direction: column;justify-content: center;align-items: center
+}
+#feedback .noidung img{
+	width: 80px;height: 80px
+}
+.b-a{
+	width: 55px;background-color: lightgray;color: #474747;text-align: center;
+}
+#customer a .btn-warning:hover{
+	color: #2F80ED!important
+}
+.text-do{
+	color: red
+}
+#post a{
+	color: #474747;text-decoration: none
+}
+#post a:hover{
+	color: #FFC113
+}
+#last a .btn-warning:hover{
+	color: #2F80ED!important
+}
+#info a{
+	color: #474747;text-decoration: none
+}
+#info a:hover{
+	color: #FFC113
+}
+.quote{
+	background-color: ghostwhite;text-align: center;color: #474747;width: 100%;padding: 20px
+}
+.num-box{
+	width: 40px; height: 40px;border-radius: 4px;text-align: center;background-color: #555555;color : white!important;display: flex;align-items: center;justify-content: center;
+}
+#info .num-box:hover{
+	background-color: #2F80ED!important;color: white
+}
+.side i{
+	color: #F25252;background-color: white;
+}
+.side i:hover{
+	color: #FFC113
+}
+.side a:hover i{
+	color: #FFC113
+}
+.form-control{
+	width: 100%; padding: 7px;margin: 15px;border-radius: 5px;border: 1px solid gray;
+}
+
+
+
+
+
+footer .navbar-nav .nav-item a:hover{
+	color: #FFC113
+}
+footer .btn-warning:hover{
+	color: #2F80ED!important
+}
+footer a{
+	color: white
+}
+footer a:hover{
+	color: #FFC113
+}
+.foot-bar{
+	width: 100%;height: 50px;background-color: #FFC113;line-height: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
